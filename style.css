@@ -4,6 +4,10 @@
     font-weight: 600;
 }
 
+nav img {
+    height: 30px;
+}
+
 .hero,
 .update {
     background-color: rgb(72, 84, 118);
