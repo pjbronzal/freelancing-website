@@ -3,6 +3,15 @@
     padding: 0;
 }
 
-.hero {
+.hero,
+.update {
     background-color: rgb(72, 84, 118);
+}
+
+.about-section img {
+    width: 70px;
+}
+
+.about-section .card-body p {
+    opacity: 0.6;
 }
